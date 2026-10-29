@@ -2,7 +2,7 @@
 
 <p align="center">
   Senior Software Engineer &amp; Architect with 20+ years of experience.<br/>
-  I build reliable software and put AI to work in it, with clean, pragmatic design.
+  I build reliable software with clean, pragmatic design, and I am deeply interested in AI and how it changes the way we build.
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 ---
 
-## 🤖 AI and software engineering
+## 💻 Software engineering
 
-I treat AI as an engineering tool: useful when it is given clear limits, checked by tests, and kept under the owner's control.
+I care about software that is simple, tested and easy to change. I am also exploring AI as an engineering tool: useful when it is given clear limits, checked by tests, and kept under the owner's control.
 
 - **AI agents that do real work.** I build agents that file, connect and summarise notes, prepare study material and resurface forgotten ideas, using Claude Code as the engine.
 - **Rules before autonomy.** My agents never delete what they were given, never rewrite the owner's own text, mark everything they write, and ask when unsure. Each run is one commit that can be undone.
