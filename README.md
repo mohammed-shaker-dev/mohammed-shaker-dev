@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Shaker 👋</h1>
 
 <p align="center">
-  Software developer building practical tools with <b>.NET</b>, and learning in public.
+  Senior .NET Developer &amp; Architect with 20+ years of experience.<br/>Clean, pragmatic code over over-engineered solutions.
 </p>
 
 <p align="center">
@@ -26,11 +26,19 @@ An Android app that keeps a folder on your phone in step with a GitHub repositor
 - Preview before syncing, scheduled background sync, and a `.gitignore`-style never-sync list
 - Built with .NET MAUI, with a plain-.NET engine covered by tests
 
+## 🧭 How I build
+
+- **Right-size the architecture.** Simple problems get simple solutions.
+- **YAGNI.** Don't build what you don't need yet.
+- **Tests that matter.** Business logic first, not infrastructure.
+- **Clarity over cleverness.** Code is read more than it is written.
+
 ## 🛠️ What I work with
 
 | | |
 | --- | --- |
 | **Languages** | C#, JavaScript |
+| **Backend** | .NET, clean and pragmatic architecture |
 | **Mobile** | .NET MAUI, Android |
 | **Tools** | Git, GitHub, Node.js, xUnit |
 | **Interests** | Note-taking systems, sync, developer tooling, AI-assisted workflows |
